@@ -1,0 +1,10 @@
+﻿{
+  "id": "zotero-reference-sqlite",
+  "name": "Zotero Reference SQLite",
+  "version": "0.5.0",
+  "minAppVersion": "1.5.0",
+  "description": "Безопасная локальная сборка: использует локальный API Zotero, а если Zotero закрыт, читает zotero.sqlite через системный Windows SQLite. Без Python.",
+  "author": "OpenAI Codex",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": true
+}
